@@ -13,21 +13,13 @@
             android:layout_width="match_parent"
             android:layout_margin="5dp"
             app:cardElevation="10dp"
+            app:cardBackgroundColor="#000"
             android:layout_height="250dp">
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical">
-                <de.hdodenhof.circleimageview.CircleImageView
-                    xmlns:app="http://schemas.android.com/apk/res-auto"
-                    android:id="@+id/profile_image1"
-                    android:layout_width="100dp"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="10dp"
-                    android:layout_height="100dp"
-                    android:src="@drawable/navaneeth"
-                    app:civ_border_width="2dp"
-                    app:civ_border_color="#dcdbdb"/>
+
 
                 <TextView
                     android:layout_width="match_parent"
@@ -58,21 +50,12 @@
             android:layout_width="match_parent"
             android:layout_margin="5dp"
             app:cardElevation="10dp"
+            app:cardBackgroundColor="#000"
             android:layout_height="250dp">
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical">
-                <de.hdodenhof.circleimageview.CircleImageView
-                    xmlns:app="http://schemas.android.com/apk/res-auto"
-                    android:id="@+id/profile_image2"
-                    android:layout_width="100dp"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="10dp"
-                    android:layout_height="100dp"
-                    android:src="@drawable/aravind"
-                    app:civ_border_width="2dp"
-                    app:civ_border_color="#dcdbdb"/>
 
                 <TextView
                     android:layout_width="match_parent"
@@ -103,21 +86,14 @@
             android:layout_width="match_parent"
             android:layout_margin="5dp"
             app:cardElevation="10dp"
+            app:cardBackgroundColor="#000"
             android:layout_height="250dp">
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical">
-                <de.hdodenhof.circleimageview.CircleImageView
-                    xmlns:app="http://schemas.android.com/apk/res-auto"
-                    android:id="@+id/profile_image3"
-                    android:layout_width="100dp"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="10dp"
-                    android:layout_height="100dp"
-                    android:src="@drawable/akshay"
-                    app:civ_border_width="2dp"
-                    app:civ_border_color="#dcdbdb"/>
+
+                
 
                 <TextView
                     android:layout_width="match_parent"
